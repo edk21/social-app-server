@@ -19,5 +19,7 @@
   },
   "devDependencies": {
     "nodemon": "^1.19.4"
-  }
+  },
+
+  "proxy": "https://arcane-caverns-10377.herokuapp.com/"
 }
